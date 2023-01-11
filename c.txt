@@ -1,0 +1,319 @@
+@vo file=yui_C_0001[cname chara="結"]「くるぞ！　全員攻撃に備えよ！」
+@vo file=yui_C_0002[cname chara="結"]「何も起こらぬのう」
+@vo file=yui_C_0003[cname chara="結"]「どうやら元に戻ったようじゃな……」
+@vo file=yui_C_0004[cname chara="結"]「というか、元凶である緋和はどこに消えたのじゃ？」
+@vo file=yui_C_0005[cname chara="結"]「う～～む、いつの間にか火事も消えて、緋和の姿もなしか、これはミステリーじゃのう」
+@vo file=yui_C_0006[cname chara="結"]「ともあれ、世界の根幹にかかわる神を相手に何の損害も受けずに済んだのじゃから、めでたしめでたしじゃ♪」
+@vo file=yui_C_0007[cname chara="結"]「無事に終わったとあればお腹がすいてきたの。妾は力を使ったのでがっつりとお肉が食いたいのう」
+@vo file=yui_C_0008[cname chara="結"]「雅人は魚の方がいいかの？　雅人がそう望むであれば別に何でも構わぬが……」
+@vo file=yui_C_0009[cname chara="結"]「おお、妾としたことがいつの間に！？」
+@vo file=yui_C_0010[cname chara="結"]「どうしてこうまでズタボロになっているのじゃ！？　妾たちは攻撃をしておらぬぞ」
+@vo file=yui_C_0011[cname chara="結"]「お腹がすいて注意力が散漫になっていただけじゃ。普段の妾であればこんな間違いはせぬ」
+@vo file=yui_C_0012[cname chara="結"]「……」
+@vo file=yui_C_0013[cname chara="結"]「そうではなくて、先ほど妾たちに襲い掛かろうとしていたじゃろう。あれはどういうわけなのじゃ？」
+@vo file=yui_C_0014[cname chara="結"]「どうどう、落ち着くのじゃ環。そんなにがっちり極めては緋和も話せぬぞ」
+@vo file=yui_C_0015[cname chara="結"]「む……」
+@vo file=yui_C_0016[cname chara="結"]「生命、宇宙、そして万物についての究極の疑問の答えとは？」
+@vo file=yui_C_0017[cname chara="結"]「完璧じゃ！」
+@vo file=yui_C_0018[cname chara="結"]「そうじゃぞ雅人、パニくるな。パニックになってはならぬのじゃ」
+@vo file=yui_C_0019[cname chara="結"]「うむ、貌なしの神に緋和という制御装置を備え付ける試みは、今のところ上手くいっているようじゃのう」
+@vo file=yui_C_0020[cname chara="結"]「確かに成長はしているようじゃが、力に見合うだけの知能や人格が伴ってないのも確かじゃな」
+@vo file=yui_C_0021[cname chara="結"]「妾は別に質素な食事でも構わぬぞ。昔は一汁一菜が基本じゃったし」
+@vo file=yui_C_0022[cname chara="結"]「これから忙しくなるし、手頃な労働力が増えたと思えば丁度よいではないか」
+@vo file=yui_C_0023[cname chara="結"]「実はの……さきほどから不思議に思っていたのじゃが……」
+@vo file=yui_C_0024[cname chara="結"]「そもそも、妾は封印された後も魂魄と成りて、この土地を見守っていたことは覚えておるかの？」
+@vo file=yui_C_0025[cname chara="結"]「その妾が、いつ頃から緋和がこの場に現れたのか……とんと覚えがないのじゃ」
+@vo file=yui_C_0026[cname chara="結"]「そんな力が発揮されたら、当然妾が気が付くはずじゃが、その記憶もない……」
+@vo file=yui_C_0027[cname chara="結"]「つまりのこの土地にまだまだ秘密が隠されているということじゃ」
+@vo file=yui_C_0028[cname chara="結"]「妾の目を盗んでいずれかの神が介入したのか、それとも、人が神域に到達する偉業を成しえたのか……」
+@vo file=yui_C_0029[cname chara="結"]「環、そなた何か心当たりはないかの」
+@vo file=yui_C_0030[cname chara="結"]「緋和があんな調子だったので、あまり考えなんだが、まだ何かありそうじゃのう……」
+@vo file=yui_C_0031[cname chara="結"]「緋和がこの地に連れてきた何者かが、そのように性格を設定しただけかもしれぬぞ。緋和に人をたばかるような知恵はないじゃろう」
+@vo file=yui_C_0032[cname chara="結"]「ともあれ、緋和に関しては慎重に様子見するしかないの」
+@vo file=yui_C_0033[cname chara="結"]「ゆえに今は昴に対応を任せるしかないであろうな」
+@vo file=yui_C_0034[cname chara="結"]「おそらくそうじゃろうな」
+@vo file=yui_C_0035[cname chara="結"]「今は緋和の人格が混沌なる神に上乗せされている状態のようじゃが……あの荒ぶる力が発揮されぬように警戒はしておくべきなのじゃが……」
+@vo file=yui_C_0036[cname chara="結"]「じゃからこそ言っておいたのじゃ。いざという時の覚悟は必要じゃからの」
+@vo file=yui_C_0037[cname chara="結"]「あくまで万が一じゃ。何もないかもしれぬし、何かあるかもしれぬ」
+@vo file=yui_C_0038[cname chara="結"]「じゃが、相手は神でさえ手が出せぬ世界の根源に繋がる存在なのじゃぞ。いざという時の覚悟だけはしておくのじゃ」
+@vo file=yui_C_0039[cname chara="結"]「祭が盛り上るためには仕方がないのじゃ、人を呼ばねば始まらぬしの」
+@vo file=yui_C_0040[cname chara="結"]「環よ、お風呂に入る際にはちゃんとリンスやトリートメントを使うのじゃ。毛並みがまるで違ってくるぞ」
+;@vo file=yui_C_0041[cname chara="結"]「…………」
+@vo file=yui_C_0042[cname chara="結"]「もしや、昼間の疲れでも残っておるのか？」
+@vo file=yui_C_0043[cname chara="結"]「雅人よ、金づちを使う時は指を打たぬように気を付けるのじゃぞ」
+@vo file=yui_C_0044[cname chara="結"]「任せるのじゃ。法隆寺にも匹敵する大建築にしてくれようぞ」
+@vo file=yui_C_0045[cname chara="結"]「緋和、そっちをよく押さえておくのじゃぞ」
+@vo file=yui_C_0046[cname chara="結"]「おおおおおおおおおおお！！」
+@vo file=yui_C_0047[cname chara="結"]「光になあああれええええ！！」
+@vo file=yui_C_0048[cname chara="結"]「しもうた、少しやりすぎたわ」
+@vo file=yui_C_0049[cname chara="結"]「安心せい！　妾はこの地を守護する土地神、遺漏はありえぬのじゃ！」
+@vo file=yui_C_0050[cname chara="結"]「うむうむ、これぞマッチポンプという奴じゃな！」
+@vo file=yui_C_0051[cname chara="結"]「はうぅう……お腹がすいて力がでないのじゃああ……」
+@vo file=yui_C_0052[cname chara="結"]「んんん、お腹がすいたのじゃー」
+@vo file=yui_C_0053[cname chara="結"]「ごっはん、ごっはん♪」
+@vo file=yui_C_0054[cname chara="結"]「はむはむはむ！」
+@vo file=yui_C_0055[cname chara="結"]「相変わらず美代のごはんは美味しいのう！　百点満点じゃ♪」
+@vo file=yui_C_0056[cname chara="結"]「ふふん、妾のほうがお姉さんじゃからの。大きくて当然なのじゃ」
+@vo file=yui_C_0057[cname chara="結"]「妹ならばこそ姉には従うのじゃ」
+@vo file=yui_C_0058[cname chara="結"]「うう……」
+@vo file=yui_C_0059[cname chara="結"]「ふええええ、昴が怒ったー」
+@vo file=yui_C_0060[cname chara="結"]「うえええん、怖いのじゃー！」
+@vo file=yui_C_0061[cname chara="結"]「ん、もう食べられないのじゃ……」
+@vo file=yui_C_0062[cname chara="結"]「ん～～～、美味しい♪」
+@vo file=yui_C_0063[cname chara="結"]「はむはむはむ！」
+@vo file=yui_C_0064[cname chara="結"]「うぐ！」
+@vo file=yui_C_0065[cname chara="結"]「の、のどに詰まったのじゃ……牛乳……」
+@vo file=yui_C_0066[cname chara="結"]「んぐんぐんぐ……ぷふぁ……」
+@vo file=yui_C_0067[cname chara="結"]「はあ……死ぬかと思ったのじゃ」
+@vo file=yui_C_0068[cname chara="結"]「ふふふ、セロリくらいでだらしがないのう、これが我が妹とは情けないわい」
+@vo file=yui_C_0069[cname chara="結"]「当然なのじゃ、こんなものこうして……はむ……んっ！」
+@vo file=yui_C_0070[cname chara="結"]「ん……んぐ……むぅ……んぐ……」
+@vo file=yui_C_0071[cname chara="結"]「は、はあ……はあ……ひ、一口で飲み込んでやったわい……」
+@vo file=yui_C_0072[cname chara="結"]「ふふふふ、捧げられた供物を残すなど、神としてのプライドが許さぬのじゃ」
+@vo file=yui_C_0073[cname chara="結"]「お菓子ー！　大量なのじゃー！　はむ！！」
+@vo file=yui_C_0074[cname chara="結"]「ん～～甘いのじゃあ！　ブルボンヌは最高じゃー！　これは神をも堕落させる魔性の菓子なのじゃ！」
+@vo file=yui_C_0075[cname chara="結"]「これ緋和、そんなにパクつくでないぞ、妾たちの供物が減るではないか」
+@vo file=yui_C_0076[cname chara="結"]「ふわああ、妾はお眠なのじゃ……」
+@vo file=yui_C_0077[cname chara="結"]「こ、こら～～、それは妾の決めセリフなのじゃあ……むにゃむにゃ」
+@vo file=yui_C_0078[cname chara="結"]「ん……まぶたが重いのじゃあ……ふああ……」
+@vo file=yui_C_0079[cname chara="結"]「ないの～～、ここにもないの～～……」
+@vo file=yui_C_0080[cname chara="結"]「美代、アレじゃアレはどこにいった？」
+@vo file=yui_C_0081[cname chara="結"]「アレはアレなのじゃ、こうちっさくて丸っこくて……昔からある……」
+@vo file=yui_C_0082[cname chara="結"]「違うのじゃ、妾は食い意地だけで動いているわけじゃないのじゃ」
+@vo file=yui_C_0083[cname chara="結"]「はむぅ、甘々じゃあ……もぐもぐ……」
+@vo file=yui_C_0084[cname chara="結"]「ってだから違うのじゃ！！」
+@vo file=yui_C_0085[cname chara="結"]「妾が探しているのは……昔からある道具というか宝具というか……祭に使ったりする……」
+@vo file=yui_C_0086[cname chara="結"]「あった！　それなのじゃ！！」
+@vo file=yui_C_0087[cname chara="結"]「返すのじゃ、それは妾のじゃー」
+@vo file=yui_C_0088[cname chara="結"]「ふふふ、やったのじゃ……」
+@vo file=yui_C_0089[cname chara="結"]「それでは雅人よ。これを授けよう」
+@vo file=yui_C_0090[cname chara="結"]「うむ、もともと雅人のものじゃし返すつもりだったのじゃ、それにのう……」
+@vo file=yui_C_0091[cname chara="結"]「雅人に持っておいてもらったほうが良い気がするのじゃ」
+@vo file=yui_C_0092[cname chara="結"]「ん～～、上手くは言えぬが何となくじゃ」
+@vo file=yui_C_0093[cname chara="結"]「うむ、しかと渡したぞ。長年妾の神気を浴びておるからお守りとしても効果的なのじゃ」
+@vo file=yui_C_0094[cname chara="結"]「ずるいぞ環、それは妾も読んで欲しいのじゃ」
+@vo file=yui_C_0095[cname chara="結"]「これは仕事の話なので、プライベートは別なのじゃ」
+@vo file=yui_C_0096[cname chara="結"]「美代のご飯は美味しいから楽しみじゃのう」
+@vo file=yui_C_0097[cname chara="結"]「嫌じゃー」
+@vo file=yui_C_0098[cname chara="結"]「そんなもの着たくないのじゃー」
+@vo file=yui_C_0099[cname chara="結"]「ふふん、たかがガワを変えただけで勝ち誇るとはそなたも単純じゃのう」
+@vo file=yui_C_0100[cname chara="結"]「甘い、その考えは美代の家で売っている羊羹よりも甘々じゃ！」
+@vo file=yui_C_0101[cname chara="結"]「なるほど、これならたくさん食べられるのう、もぐもぐ……」
+@vo file=yui_C_0102[cname chara="結"]「それは酷いのじゃー、せめてもう一口」
+@vo file=yui_C_0103[cname chara="結"]「そうじゃった、もぐもぐ……ごくん！」
+@vo file=yui_C_0104[cname chara="結"]「真の意味での魅力とは、どんな服を着ても隠し切れぬもの」
+@vo file=yui_C_0105[cname chara="結"]「見た感じこんなやぼったい服を着ていたとしても、魅力が溢れていくのじゃ」
+@vo file=yui_C_0106[cname chara="結"]「そんなヒラヒラがついて歩きにくいのじゃ、こっちのほうが楽なのじゃ」
+@vo file=yui_C_0107[cname chara="結"]「しからば雅人、妾も抱っこじゃ」
+@vo file=yui_C_0108[cname chara="結"]「ふふふ、どうやらアテが外れたようじゃのう」
+@vo file=yui_C_0109[cname chara="結"]「なぬぅ！　子供じゃと！」
+@vo file=yui_C_0110[cname chara="結"]「やったー！　ごはんじゃごはんじゃー！」
+@vo file=yui_C_0111[cname chara="結"]「にしても、朝からそうめんとは珍しいのう」
+@vo file=yui_C_0112[cname chara="結"]「う～～ぬ、さすがに毎日はきついが、仕方がないかのう」
+@vo file=yui_C_0113[cname chara="結"]「新しいゲーム機も欲しいのう」
+@vo file=yui_C_0114[cname chara="結"]「そういえば、久しくアイスや生菓子を口にしてないのう」
+@vo file=yui_C_0115[cname chara="結"]「洗剤はお米のとぎ汁で代用できるのじゃぞ。昔はみんなそうしていたのじゃ」
+@vo file=yui_C_0116[cname chara="結"]「最終手段じゃが、トイレットペーパーはハサミを代用する方法もあるのじゃぞ」
+@vo file=yui_C_0117[cname chara="結"]「それには理由があっての。これは簡単に清潔な体を維持できるが、使用者の尊厳と引き換えとなるので、神が人には伝えずにいた禁断の知識の一つなのじゃ」
+@vo file=yui_C_0118[cname chara="結"]「うむ、それが賢明じゃ」
+@vo file=yui_C_0119[cname chara="結"]「今日もお菓子が大量だったのじゃー♪」
+@vo file=yui_C_0120[cname chara="結"]「なにおう、金額でいえば妾のほうが勝っているのじゃ！　このバウムクーヘンを見るがよいわ！」
+@vo file=yui_C_0121[cname chara="結"]「格の違いを思い知ったか。これほどの供物ならばこそ妾にふさわしいと言えるじゃろう」
+@vo file=yui_C_0122[cname chara="結"]「むむむ！　マカロンじゃと……」
+@vo file=yui_C_0123[cname chara="結"]「ぬう……これはタフな交渉になりそうじゃのう…………」
+@vo file=yui_C_0124[cname chara="結"]「緋和よ、その醤油せんべいと妾のバームクーヘンを交換せぬか？」
+@vo file=yui_C_0125[cname chara="結"]「甘いのを食べた後はしょっぱいのが美味しくなるのじゃ」
+@vo file=yui_C_0126[cname chara="結"]「甘いマカロンを食べた後に……しょっぱい醤油せんべいで甘さを中和して……はむはむ……ごくん！」
+@vo file=yui_C_0127[cname chara="結"]「こうすれば永遠にお菓子を食べ続けられる、いわば永久機関の完成なのじゃ！」
+@vo file=yui_C_0128[cname chara="結"]「わかっておるわ。子供でもあるまいし」
+@vo file=yui_C_0129[cname chara="結"]「突撃じゃー」
+@vo file=yui_C_0130[cname chara="結"]「ふふん、捕まえたのじゃー」
+@vo file=yui_C_0131[cname chara="結"]「雅人よ、今日は妾たちと一緒に寝るのじゃ」
+@vo file=yui_C_0132[cname chara="結"]「む、どうした雅人……？」
+@vo file=yui_C_0133[cname chara="結"]「ならばよかろう。女装女神を二人も侍らせるとは、雅人も男冥利につきるというものじゃ」
+@vo file=yui_C_0134[cname chara="結"]「雅人が意地悪するのじゃー、少しは恋人らしいことをするのじゃー」
+@vo file=yui_C_0135[cname chara="結"]「妾たちは決してここを動かぬぞ！」
+@vo file=yui_C_0136[cname chara="結"]「む、昴……」
+@vo file=yui_C_0137[cname chara="結"]「泣いてはいないのじゃ」
+@vo file=yui_C_0138[cname chara="結"]「ふふん、昴も妾たちの神威にうたれて畏れ入ったようじゃのう」
+@vo file=yui_C_0139[cname chara="結"]「ひぃ、急いで行ってくるのじゃー」
+@vo file=yui_C_0141[cname chara="結"]「ようやく目が覚めたか」
+@vo file=yui_C_0142[cname chara="結"]「じゃが、ただの夢ではないぞ、妾たちは夢を通して雅人に語り掛けているのじゃ」
+@vo file=yui_C_0143[cname chara="結"]「残念ながら、現実での妾たちは今も子供の姿のまま力を抑えられておる」
+@vo file=yui_C_0144[cname chara="結"]「うむ、保険の意味で用意しておいたが役に立ったようじゃのう」
+@vo file=yui_C_0145[cname chara="結"]「勾玉の助けがあったとはいえ夢を繋ぐのはなかなか苦労したぞ。そのために一緒に閨を共にしなければならなかったしのう」
+@vo file=yui_C_0146[cname chara="結"]「うむ、緋和が暴走しているようじゃのう」
+@vo file=yui_C_0147[cname chara="結"]「貌なしの神に人としての情緒を与えるという試みのようじゃが、それが上手く定着していないために、今のように混沌の本能に飲まれようとしているのじゃろう」
+@vo file=yui_C_0148[cname chara="結"]「平穏よりも乱を好む嗜好も、その本能の発達ゆえじゃろう」
+@vo file=yui_C_0149[cname chara="結"]「そなたの願いしかと聞き届けた！　この地の守護神として全力を尽くしてやろうぞ！」
+@vo file=yui_C_0150[cname chara="結"]「うむ、他ならぬ雅人の願いなればこそ叶えてやりたいのは山々なのじゃがのう……」
+@vo file=yui_C_0151[cname chara="結"]「現時点で今の緋和の脅威が向いているのは妾たちのみじゃろ？　しかも、力を封印されただけで滅ぼされたわけでもない」
+@vo file=yui_C_0152[cname chara="結"]「確かに脅威ではあるな、何しろこの地の守護神である妾たちの力が弱まっているのじゃから」
+@vo file=yui_C_0153[cname chara="結"]「はじめて覚醒した時の緋和のあの姿を覚えているか？　あれこそ混沌の化身、破壊の神そのものじゃ」
+@vo file=yui_C_0154[cname chara="結"]「それは妾たちも困る。長年この土地を守ってきた神としては到底容認できん事態じゃ」
+@vo file=yui_C_0155[cname chara="結"]「その通りじゃ雅人！　これから言うことをしかと聞くがよい」
+@vo file=yui_C_0156[cname chara="結"]「この宇宙は混沌の状態から秩序が生まれ、それが天地開闢より続く理となりこの世界を安定せしめている」
+@vo file=yui_C_0157[cname chara="結"]「例えるならば、膨大なＤＮＡの遺伝情報から意味のあるコードを読み解こうと研究が続けられているじゃろう？」
+@vo file=yui_C_0158[cname chara="結"]「しっかりついてくるのじゃ雅人、重要なのはここからじゃ」
+@vo file=yui_C_0159[cname chara="結"]「混沌と秩序、女性と男性、破壊と創造、何ごとかの真理には表裏一体する要素が存在するのじゃ」
+@vo file=yui_C_0160[cname chara="結"]「もうひとつ、全てを生み出す創造原理というものが存在する」
+@vo file=yui_C_0161[cname chara="結"]「雅人よ、そなたは緋和という混沌の中から創造を見出し両立せしめるのじゃ。それがそなたのなすべき仕事なのじゃ」
+@vo file=yui_C_0162[cname chara="結"]「何か説明に不都合があったかのう」
+@vo file=yui_C_0163[cname chara="結"]「なるほど、その例えは言いえて妙であるの」
+@vo file=yui_C_0164[cname chara="結"]「たしかに雅人の言うとおりじゃの」
+@vo file=yui_C_0165[cname chara="結"]「雅人は神である妾たちと、対等な関係を結んでおるではないか」
+@vo file=yui_C_0166[cname chara="結"]「ただの人間ならそうであるが……じゃが忘れたか雅人、大祭でのそなたの役割を」
+@vo file=yui_C_0167[cname chara="結"]「いかにもその通りじゃ。大祭での儀式をむかえてこそ雅人は人のまま神の領域へと入る」
+@vo file=yui_C_0168[cname chara="結"]「うむ、恋愛ごとなら妾の得意分野じゃしのう。縁結びの神の力で恋愛成就は必然というわけじゃ」
+@vo file=yui_C_0169[cname chara="結"]「雅人よ覚悟せよ。男と男の娘の恋愛は神の封じた禁忌ではあったが、すでに妾たちはその領域を飛び越えようとしている」
+@vo file=yui_C_0170[cname chara="結"]「そうじゃの。妾の力によって男の娘の妊娠機能はそなわりつつあるが、それもまだ限定的じゃ」
+@vo file=yui_C_0171[cname chara="結"]「世間一般においてはまだまだ事実として認められていない非常識であろう。いくら神とはいえ長年培ってきた常識を覆すのは難しいのじゃ」
+@vo file=yui_C_0172[cname chara="結"]「雅人は要所要所で男前なところを見せるのう。流石は妾の夫なのじゃ♪」
+@vo file=yui_C_0173[cname chara="結"]「もしや美代のことを心配しているのかの？」
+@vo file=yui_C_0174[cname chara="結"]「安心せい！　他の男の娘ならいざ知らず相手が緋和であれば、美代もしぶしぶは受け入れるであろう」
+@vo file=yui_C_0175[cname chara="結"]「いや……もしや、その可能性もある……かのう？」
+@vo file=yui_C_0176[cname chara="結"]「ともあれ、緋和の中から恋愛によって創造の要素を導き出すのじゃ」
+@vo file=yui_C_0177[cname chara="結"]「不安か雅人」
+@vo file=yui_C_0178[cname chara="結"]「だが安心せい！　妾に妙案アリじゃ！」
+@vo file=yui_C_0179[cname chara="結"]「今回こそ大丈夫じゃ、神降ろしの儀式の効果を上げるために、儀式まで妾たちが雅人に力を与えていけばよいのじゃ」
+@vo file=yui_C_0180[cname chara="結"]「ふふふ……それは言うまでもなく決まっておろう」
+@vo file=yui_C_0181[cname chara="結"]「となると、妾たちだけでは手数が足りぬからのう。とりあえず、妾たちと美代と昴……」
+@vo file=yui_C_0182[cname chara="結"]「あれらも神に匹敵する力をもつゆえ、勘定にいれるべきなのじゃ」
+@vo file=yui_C_0183[cname chara="結"]「妾たちは全員雅人の妻であるぞ、昴だけのけ者にして後日の火種を残したいのか？」
+@vo file=yui_C_0184[cname chara="結"]「これはいわゆる類感魔術の一種での、同じ事象を積み重ねることで、強い効果を残しやすくする呪いがあるのじゃ」
+@vo file=yui_C_0185[cname chara="結"]「それは違うぞ、妾たちは男の娘じゃから、女たらしではなく男の娘たらしじゃな」
+@vo file=yui_C_0186[cname chara="結"]「雅人と縁を結ぶことは、妾たちの回復にも繋がるからのう」
+@vo file=yui_C_0187[cname chara="結"]「そうしてやりたいのは山々じゃが、偽装の為に妾たちはしばらく子供の姿のままでいたほうがよかろう」
+@vo file=yui_C_0188[cname chara="結"]「それにのう……何より久方ぶりではないか」
+@vo file=yui_C_0293[cname chara="結"]「おうとも！」
+@vo file=yui_C_0294[cname chara="結"]「不安に思っておったら案の定じゃ、ここは妾たちに任せい！」
+@vo file=yui_C_0295[cname chara="結"]「ならぬぞ美代！　気持ちはわかるがその手を放すのじゃ！」
+@vo file=yui_C_0296[cname chara="結"]「妾の力が通じないじゃと！」
+@vo file=yui_C_0297[cname chara="結"]「恋する男の娘の情念かくも凄まじいものか、全くもって見誤ったわい」
+@vo file=yui_C_0298[cname chara="結"]「それは言いっこなしじゃ！」
+@vo file=yui_C_0299[cname chara="結"]「ともあれこうなれば手段は一つ……あれをやるぞ環！」
+@vo file=yui_C_0300[cname chara="結"]「そう、妾と環、至高なる二柱の神が揃いし時、はじめて可能になる奇跡、それはすなわち……」
+@vo file=yui_C_0301[cname chara="結"]「時よ逆巻け、入定より夜半に至れ」
+@vo file=yui_C_0302[cname chara="結"]「時よ、結びたまえ！」
+@vo file=yui_C_0304[cname chara="結"]「安心せい！　雅人」
+@vo file=yui_C_0305[cname chara="結"]「気を失っているだけじゃ。時間が経てば目を覚ますじゃろう」
+@vo file=yui_C_0306[cname chara="結"]「今の美代は少し時間を戻しておる。つまりここ数日の記憶がないということじゃ」
+@vo file=yui_C_0307[cname chara="結"]「緋和出てくるのじゃ！」
+@vo file=yui_C_0308[cname chara="結"]「安心せい雅人、我に勝算ありじゃ」
+@vo file=yui_C_0309[cname chara="結"]「そうじゃ、元はと言えばそなたのせいでこうなったのじゃぞ」
+@vo file=yui_C_0310[cname chara="結"]「何を言うか、そなたも責任の一端は担っているのじゃ」
+@vo file=yui_C_0311[cname chara="結"]「ふふふ、どうじゃ雅人よ。首尾よく緋和の協力をとりつけたぞ」
+@vo file=yui_C_0312[cname chara="結"]「妾の神算鬼謀は極まることなしじゃ、どや！」
+@vo file=yui_C_0313[cname chara="結"]「どうした雅人、浮かない顔じゃのう」
+@vo file=yui_C_0314[cname chara="結"]「意味を求めてはならぬ」
+@vo file=yui_C_0315[cname chara="結"]「あれは混沌の事象そのものなのじゃ。位の高い神であるなら、その現象そのものを司るため人と同じ人間性を求めても無駄なのじゃ」
+@vo file=yui_C_0316[cname chara="結"]「美代ー、何を遊んでおるのじゃ？　そろそろお昼の用意をして欲しいのじゃ」
+@vo file=yui_C_0317[cname chara="結"]「なんじゃ？　どうかしたかの？」
+@vo file=yui_C_0318[cname chara="結"]「ほう……」
+@vo file=yui_C_0319[cname chara="結"]「今は緋和が覚醒する前の美代じゃ、今のうちに美代と結ばれその後、元に戻す」
+@vo file=yui_C_0320[cname chara="結"]「ふふふ、すごいじゃろう。もっと褒めてくれても良いのじゃぞ」
+@vo file=yui_C_0321[cname chara="結"]「……じゃのう。ムードもへったくれもないわ」
+@vo file=yui_C_0322[cname chara="結"]「いや、あれはむしろ……」
+@vo file=yui_C_0323[cname chara="結"]「う～～む……そのようじゃのう」
+@vo file=yui_C_0324[cname chara="結"]「普段の美代なら、雅人に危害を加えることはないじゃろうが……」
+@vo file=yui_C_0325[cname chara="結"]「しかし、あの様子をみていると不安が残るのう」
+@vo file=yui_C_0326[cname chara="結"]「美代はいつも通りじゃな」
+@vo file=yui_C_0327[cname chara="結"]「そうみたいじゃのう、こちらも上手くいったようじゃな」
+@vo file=yui_C_0328[cname chara="結"]「これ、大きな声を出すでない」
+@vo file=yui_C_0329[cname chara="結"]「ともかく、美代にかけると思わせて、緋和にも術を施しその力を抑え込む」
+@vo file=yui_C_0330[cname chara="結"]「安心せい！　妾にぬかりはない！」
+@vo file=yui_C_0331[cname chara="結"]「幸なことに祭りを前にして、この地の信仰が高まっているゆえ力は充実しているのじゃ」
+@vo file=yui_C_0332[cname chara="結"]「昴は妾たちの考えに反対なのか？」
+@vo file=yui_C_0333[cname chara="結"]「昴の心配もわからぬではないが……混沌の神の暴走はそのままこの世の終わりへと繋がるのじゃぞ」
+@vo file=yui_C_0334[cname chara="結"]「これを放置してはおけぬ。少しでも抑えられる可能性があるのなら迷わず使用すべきなのじゃ」
+@vo file=yui_C_0335[cname chara="結"]「ないの」
+@vo file=yui_C_0336[cname chara="結"]「ないったらないのじゃ。雅人は心配性じゃのう」
+@vo file=yui_C_0337[cname chara="結"]「馬鹿モノ、ケチャップじゃ。醤油など邪道！」
+@vo file=yui_C_0338[cname chara="結"]「それは仕方ないのじゃ、緋和から混沌の要素を抜いたらただのポンコツじゃからのう」
+@vo file=yui_C_0339[cname chara="結"]「美代、今はそなたが反応してはならぬ」
+@vo file=yui_C_0340[cname chara="結"]「治世の能臣じゃが、乱世においては奸雄タイプじゃな」
+@vo file=yui_C_0341[cname chara="結"]「その通りじゃぞ雅人。何事においても『足るを知る』ことが肝要じゃ。それが人生を成功させる秘訣と知れ」
+@vo file=yui_C_0342[cname chara="結"]「あの時はあれが正解だと思ったのじゃ」
+@vo file=yui_C_0343[cname chara="結"]「宴じゃものども！　大いに飲んで騒ぐがよいぞ！」
+@vo file=yui_C_0344[cname chara="結"]「うむ、その心遣いまことにあっぱれじゃ」
+@vo file=yui_C_0345[cname chara="結"]「美代、妾は子供ではないのじゃ」
+@vo file=yui_C_0346[cname chara="結"]「むむむ美代は教育に厳しいのじゃ……はむはむ……」
+@vo file=yui_C_0347[cname chara="結"]「む！　このクッキー美味しいのじゃ！」
+@vo file=yui_C_0348[cname chara="結"]「朝っぱらから近所迷惑じゃぞ！」
+@vo file=yui_C_0349[cname chara="結"]「安心せい、峰打ちじゃ」
+@vo file=yui_C_0350[cname chara="結"]「要するにちゃんと手加減はしておるということじゃ」
+@vo file=yui_C_0351[cname chara="結"]「雅人の為ならお安い御用なのじゃ」
+@vo file=yui_C_0352[cname chara="結"]「おおー、明るいのじゃー♪」
+@vo file=yui_C_0353[cname chara="結"]「妾はわたあめが欲しいのじゃー」
+@vo file=yui_C_0354[cname chara="結"]「ほうっておけ雅人」
+@vo file=yui_C_0355[cname chara="結"]「うむ、流石に祭りの当日に祭神が子供の姿のままでは恰好が付かぬからの」
+@vo file=yui_C_0356[cname chara="結"]「安心せい！　二人とも自分たちの争いで大祭を台無しにするほど馬鹿ではなかろう」
+@vo file=yui_C_0357[cname chara="結"]「黄門様の一行が悪代官と戦う時に流れるあれじゃな」
+@vo file=yui_C_0358[cname chara="結"]「止めに入るのは野暮というものじゃ」
+@vo file=yui_C_0359[cname chara="結"]「なるほど、勢いはあったがのう」
+@vo file=yui_C_0360[cname chara="結"]「腐るな緋和、残念賞に妾のおやつをわけてやろう」
+@vo file=yui_C_0361[cname chara="結"]「違うのじゃ、昴の認識が間違っておる。昔はこうじゃったのじゃ」
+@vo file=yui_C_0362[cname chara="結"]「反対じゃ！　昴は頭が固すぎるわ！」
+@vo file=yui_C_0363[cname chara="結"]「いかにも、それが伝統というものなのじゃ」
+@vo file=yui_C_0364[cname chara="結"]「妾は全くもって構わぬぞ。祭神自ら踊るというのも盛り上がりそうだしのう。面白ければなんでもよしじゃ」
+@vo file=yui_C_0365[cname chara="結"]「それはそれで盛り上がりそうじゃがの」
+@vo file=yui_C_0366[cname chara="結"]「何でもではない、せっかく神が降臨しておるのじゃから奉納の舞も古式に則った様式に変更すべきなのじゃ」
+@vo file=yui_C_0367[cname chara="結"]「たかが二十年前の記録じゃろ？　伝統という意味では妾の意見を優先させるべきなのじゃ」
+@vo file=yui_C_0368[cname chara="結"]「だから足はこっち、腕はこちらじゃ」
+@vo file=yui_C_0369[cname chara="結"]「妾は雅人のことを信じておるぞ」
+@vo file=yui_C_0370[cname chara="結"]「うむ、当然じゃ！　期待通りの答えじゃぞ雅人」
+@vo file=yui_C_0371[cname chara="結"]「だったら無視じゃ無視！」
+@vo file=yui_C_0372[cname chara="結"]「理由もわからぬ形式を墨守すべきではない、伝統とは塗り替えられるべきなのじゃ」
+@vo file=yui_C_0373[cname chara="結"]「おうとも」
+@vo file=yui_C_0374[cname chara="結"]「ふふ……そうであろう、そうであろう」
+@vo file=yui_C_0375[cname chara="結"]「これぞ古式にのっとった正式な舞、大いなる神に捧げるための神聖な舞なのじゃ」
+@vo file=yui_C_0376[cname chara="結"]「どうじゃ雅人、妾たちの舞は？　大祭にふさわしい出来であったであろう？」
+@vo file=yui_C_0377[cname chara="結"]「ふふふ、緋和もあまりの荘厳さに心を奪われ、茫然としているようじゃのう」
+@vo file=yui_C_0378[cname chara="結"]「これも妾の踊りの魅力ゆえか。男の娘すら魅了してしまうとは妾は罪な女装女神なのじゃ」
+@vo file=yui_C_0379[cname chara="結"]「ぬ？　どうしたのじゃ環」
+@vo file=yui_C_0380[cname chara="結"]「なぬ！」
+@vo file=yui_C_0381[cname chara="結"]「まずい！　あれは御柱じゃ！」
+@vo file=yui_C_0382[cname chara="結"]「く……妾としたことが迂闊であったか……」
+@vo file=yui_C_0383[cname chara="結"]「今更言っても遅いのじゃー！」
+@vo file=yui_C_0384[cname chara="結"]「慌てるでないぞ雅人！　とりあえずは、やることは二つじゃ、まずは昴！」
+@vo file=yui_C_0385[cname chara="結"]「あの神刀は混沌への対抗措置として残された、究極の切り札なのじゃ」
+@vo file=yui_C_0386[cname chara="結"]「致し方ない、こうなれば予定を前倒しじゃ」
+@vo file=yui_C_0387[cname chara="結"]「雅人よ大祭の本番を待たず緋和の中へと入るしかないの」
+@vo file=yui_C_0388[cname chara="結"]「緋和の内部に渦巻く大いなる混沌から、緋和の自我を探してくるのじゃ！　それしか混沌を抑える術はない」
+@vo file=yui_C_0389[cname chara="結"]「だからそれを今からやるのじゃ。本来は儀式で緋和の混沌に対抗できる力を整える手はずじゃったが……」
+@vo file=yui_C_0390[cname chara="結"]「この際は仕方がない、不完全じゃがなんとかするしかあるまい」
+@vo file=yui_C_0391[cname chara="結"]「急でもなんでもやるしかないのじゃ！」
+@vo file=yui_C_0392[cname chara="結"]「このことはおぬしも承知しておったであろう、今更なんじゃ」
+@vo file=yui_C_0393[cname chara="結"]「じゃが、事態は既に進行しておる。早くしないと宇宙が滅ぶぞ」
+@vo file=yui_C_0394[cname chara="結"]「よくぞ言った、それこそ我が夫じゃ！」
+@vo file=yui_C_0395[cname chara="結"]「美代、環、妾に合わせよ！　雅人を送り出すぞ！」
+@vo file=yui_C_0396[cname chara="結"]「時は良し所も良し！！　あとの問題は努力でカバーじゃ」
+@vo file=yui_C_0397[cname chara="結"]「雅人よ、いと高き神に祈れ！　世界を救ってくるのじゃ！」
+@vo file=yui_C_0398[cname chara="結"]「探したぞ、雅人」
+@vo file=yui_C_0399[cname chara="結"]「緋和も今のうちに慣れておかないと体がもたぬぞ」
+@vo file=yui_C_0400[cname chara="結"]「安心せい！　こちらはなんともないのじゃ」
+@vo file=yui_C_0401[cname chara="結"]「これ以上激しい暴走が起きる可能性は少ないとみた、ひとまずは祝着じゃ！」
+@vo file=yui_C_0402[cname chara="結"]「馬鹿モノ神との対話は神聖なる行為じゃ。おかしくなることなど断じてない」
+@vo file=yui_C_0403[cname chara="結"]「うむ、遠来よりご苦労じゃの」
+@vo file=yui_C_0404[cname chara="結"]「雅人雅人―盛り上がっとるかー！」
+@vo file=yui_C_0405[cname chara="結"]「力を使ったら縮んでしまったのじゃ。どうも消耗すると省エネモードになる癖がついておるのう」
+@vo file=yui_C_0406[cname chara="結"]「何を言うか、久方ぶりの大祭じゃぞ。妾のために人の子らがここまでお膳立てを整えたとあらば、祭神である妾も気合いが入ろうというものじゃ」
+@vo file=yui_C_0407[cname chara="結"]「妾の力全てを使いつくしたが満足じゃ。それは環も同じ思いじゃろう」
+@vo file=yui_C_0408[cname chara="結"]「なんじゃ？」
+@vo file=yui_C_0409[cname chara="結"]「ふむ……いかにもそのような考えも一理あるがの」
+@vo file=yui_C_0410[cname chara="結"]「雅人はちゃんと神を受け入れつつも、その力に溺れることなく自分を保っておるように見えるぞ」
+@vo file=yui_C_0411[cname chara="結"]「神は人を助けるし、その力もある。じゃが最後に事を成すのは人の意志じゃ」
+@vo file=yui_C_0412[cname chara="結"]「雅人よ見ろ、この光景を」
+@vo file=yui_C_0413[cname chara="結"]「なんとも心が躍る風景ではないか」
+@vo file=yui_C_0414[cname chara="結"]「ぬ……雅人……」
+@vo file=yui_C_0415[cname chara="結"]「なんじゃ、そういう意味か」
+@vo file=yui_C_0416[cname chara="結"]「妾ではない、先ほども言ったように、妾は雅人の想いをくみ取ったまでじゃ」
+@vo file=yui_C_0417[cname chara="結"]「じゃから雅人よ胸を張れ。この風景は雅人が作り出したものに間違いない」
+@vo file=yui_C_0418[cname chara="結"]「緋和との国生みのおかげで、この世には新しい可能性、男の娘は妊娠可能となった」
+@vo file=yui_C_0419[cname chara="結"]「それは確かに新しい世界と言えるが、この風景の前では小さき変化やもしれぬの」
+@vo file=yui_C_0420[cname chara="結"]「妾にとっては、土地の子らの笑顔が何よりの馳走なのじゃ」
+@vo file=yui_C_0421[cname chara="結"]「さて、難しい話はここまでじゃ。地上の子らが妾を祭るのであれば、神は神らしく祭りに花を添えようではないか！」
+@vo file=yui_C_0422a[cname chara="結"]「祭じゃ皆の衆よ！」
+@vo file=yui_C_0422b[cname chara="結"]「祝え！」
+@vo file=yui_C_0422c[cname chara="結"]「騒げ！　歌え！」
+@vo file=yui_C_0423[cname chara="結"]「今宵は男の娘祭じゃ！」
